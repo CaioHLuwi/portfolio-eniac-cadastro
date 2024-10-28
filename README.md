@@ -20,7 +20,7 @@ mais atraente e fácil de usar. Aplique técnicas e/ou código css para melhorar
 
 Segue o código html
 
-<!DOCTYPE html>
+```html
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8">
@@ -63,4 +63,5 @@ Segue o código html
     </form>
   </body>
 </html>
+```
 
