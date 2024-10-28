@@ -1,5 +1,7 @@
 # Página Web feita para o portfólio da matéria de Layout para Web - Wireframe, UX e Bootstrap do ENIAC. 
 
+Para acessar a página estática feita, acesse: https://caiohluwi.github.io/portfolio-eniac-cadastro/
+
 Para a criação dessa página, foi cedido o seguinte estudo de caso:
 
 ## ESTUDO DE CASO
