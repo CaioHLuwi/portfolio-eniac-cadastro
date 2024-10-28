@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';
+}
+
+.logo {
+    color: #0099ff;
+    font-size: 21px;
+    font-weight: 800;
+}
+
+.container-fluid{
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    display: flex;
+}
+
+.box-signin{
+    position: relative;
+    width: 1600px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 1px 10px 89px rgba(0, 0, 0, 0.281);
+}
+
+.title{
+    color: rgb(32, 32, 32);
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.subtitle{
+    color: #969696;
+}
+
+.rightside-image img{
+    width: 800px;
+    height: 800px;
+}
+
+.form-group {
+    position: relative;
+}
+
+.input-label {
+    position: absolute;
+    top: 7px;
+    background-color: #fff;
+    left: 15px;
+    font-size: 16px;
+    color: #838282;
+    padding: 5px;
+}
+
+.input-field {
+    width: 89%;
+    padding: 12px 15px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+}
+
+.input-field:focus {
+    border: 2px solid #0099ff;
+}
+
+.radio-space {
+    width: 89%;
+    padding: 12px 15px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input-radio {
+    position: relative;
+}
+
+.radio-label {
+    color:  #838282;
+}
+
+.button-field {
+    background-color: #367AFF;
+    width: 89%;
+    padding: 12px 15px;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.signin-text {
+    justify-content: center;
+    position: relative;
+    top: 15px;
+}
+
+.toggle-password {
+    position: absolute;
+    margin-left: -5%;
+    top: 50px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.error-field {
+    color: red;
+    display: none;
+}
+
+.ativo {
+    display: block;
+}
+
+.fixbug-eyes {
+
+}
